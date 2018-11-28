@@ -1,0 +1,17 @@
+.Weather {
+  margin-left: -3.125em;
+  font-weight: bold;
+  font-size: 1.125em;
+  color: #393e46;
+}
+
+.Weather span {
+  color: green;
+}
+
+.error {
+  color: darkred;
+  font-size: 1.875em;
+  font-family: Ubuntu;
+  text-shadow: 2px 2px 2px black;
+}

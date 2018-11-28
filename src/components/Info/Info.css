@@ -1,0 +1,12 @@
+.Info {
+  text-align: center;
+}
+
+.Info h2 {
+  font-size: 1.875em;
+  font-weight: bold;
+}
+
+.Info p {
+  font-size: 1.25em;
+}
